@@ -1,10 +1,8 @@
 #!/bin/bash
 
-# ==============================================================================
 # Script Name: system-updater.sh
 # Description: Automatically updates, upgrades, and cleans up Ubuntu/Debian packages.
 # Feel free to contribute and add support for other distros (like Fedora/Arch)!
-# ==============================================================================
 
 echo "Starting System Update and Clean-up..."
 
