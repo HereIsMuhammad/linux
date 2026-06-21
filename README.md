@@ -23,7 +23,7 @@ I love contributions! You can contribute in many ways:
 1. **Fork** this repository.
 2. **Clone** your forked repository to your local machine:
    ```
-   git clone [https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git)
+   git clone [https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git]
    ```
 1. Create a new branch:
 ```
