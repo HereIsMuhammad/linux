@@ -40,4 +40,4 @@ git push origin feature/amazing-feature
 4. Open a Pull Request!
 
 ### Code of Conduct & License
-Please be respectful to all contributors
+Please be respectful to all contributors.
