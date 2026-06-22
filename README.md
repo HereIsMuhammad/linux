@@ -46,4 +46,4 @@ You can contribute in many ways:
 
 ## Code of Conduct & License
 
-Please be respectful to all contributors. See [LICENSE](LICENSE) for details.
+Please be respectful to all contributors. See [LICENSE](LICENSE) for details
