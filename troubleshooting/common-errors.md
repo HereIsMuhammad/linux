@@ -78,4 +78,4 @@ sudo apt update
 
 ---
 
-*More errors? Open an [Issue](../../issues) and we'll add the fix here!*
+*More errors? Open an [Issue](../../issues) and I'll add the fix here!*
