@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" width="100"/>
+</p>
+
 # Linux
 
 Welcome to the open-source Linux resource hub! This repository is designed 
