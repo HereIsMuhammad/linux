@@ -45,3 +45,17 @@ Use this format for clear history:
 **Example:** `feat: add disk usage commands to cheat sheet`
 
 ## File Structure Guidelines
+
+Place your files in the correct folder:
+
+| Folder | File Type | Example |
+|--------|-----------|---------|
+| `/commands` | `.md` cheat sheets | `networking-commands.md` |
+| `/scripts` | `.sh` bash scripts | `backup.sh` |
+| `/guides` | `.md` tutorials | `ssh-setup.md` |
+| `/troubleshooting` | `.md` error fixes | `permission-errors.md` |
+
+**Naming Rules:**
+- Use lowercase only — `my-file.md` ✅ `My File.md` ❌
+- Use hyphens, not spaces — `disk-usage.md` ✅ `disk usage.md` ❌
+- Every new folder must include a `README.md`
