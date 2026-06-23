@@ -23,6 +23,24 @@ Welcome to the basic commands reference guide. This file contains essential comm
 | `rm [file]` | Deletes a file | `rm old-notes.txt` |
 | `rm -rf [folder]` | Permanently deletes a folder and everything inside it | `rm -rf test-folder` |
 
+## Text Processing & Searching
+
+| Command | Description | Example |
+| :--- | :--- | :--- |
+| `grep [pattern] [file]` | Searches for a specific pattern or word inside a file | `grep "error" log.txt` |
+| `grep -i [pattern] [file]` | Searches for a pattern case-insensitively (ignores uppercase/lowercase) | `grep -i "warning" log.txt` |
+| `find [path] -name [name]` | Finds files or folders across the system matching a specific name | `find . -name "*.txt"` |
+| `wc -l [file]` | Counts the total number of lines inside a file | `wc -l notes.txt` |
+
+## Viewing File Content
+
+| Command | Description | Example |
+| :--- | :--- | :--- |
+| `cat [file]` | Displays the entire content of a file on the terminal screen at once | `cat notes.txt` |
+| `head -n [number] [file]` | Outputs the first specified number of lines of a file | `head -n 10 log.txt` |
+| `tail -n [number] [file]` | Outputs the last specified number of lines of a file | `tail -n 10 log.txt` |
+| `less [file]` | Opens a file interactively, allowing you to scroll page-by-page | `less big-file.log` |
+
 ## System Information
 
 | Command | Description | Example |
