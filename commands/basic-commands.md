@@ -50,4 +50,4 @@ Welcome to the basic commands reference guide. This file contains essential comm
 | `df -h` | Shows available and used hard disk space in human-readable format | `df -h` |
 | `free -m` | Displays total, used, and free RAM (Memory) in megabytes | `free -m` |
 
-**Tip for Contributors:** If you know a useful command that is missing here, feel free to edit this file and submit a Pull Request
+**Tip for Contributors:** If you know a useful command that is missing here, feel free to edit this file and submit a Pull Request!
