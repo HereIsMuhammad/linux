@@ -14,7 +14,7 @@ command line, your contributions are welcome!
 ## Project Structure
 
 - `/commands` — Cheat sheets for basic to advanced Linux commands
-- `/scripts` — Useful Bash/Shell scripts for automation
+- `/scripts` — Useful Bash/Shell scripts for automation0
 - `/guides` — Detailed tutorials on Linux concepts (Networking, Permissions, etc.)
 - `/troubleshooting` — Common errors and their fixes
 
@@ -49,4 +49,4 @@ You can contribute in many ways:
 6. **Open a Pull Request!**
 
 ## Code of Conduct & License
-Please be respectful to all contributors. See [LICENSE](LICENSE) for details.
+Please be respectful to all contributors. See [LICENSE](LICENSE) for details
