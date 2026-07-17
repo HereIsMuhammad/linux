@@ -5,7 +5,7 @@
 # Linux
 
 Welcome to the open-source Linux resource hub! This repository is designed 
-to be a collaborative space for beginners and experts to share Linux commands, 
+to be a collaborative space for beginners and experts to share Linux commands, 0
 troubleshooting guides, automation scripts, and tips.
 
 Whether you are a DevOps engineer, a SysAdmin, or just starting with the 
