@@ -33,7 +33,7 @@ You can contribute in many ways:
 2. **Clone** your fork:
 ```bash
    git clone https://github.com/YOUR_USERNAME/linux.git
-```
+``
 3. **Create** a new branch:
 ```bash
    git checkout -b feature/amazing-feature
@@ -49,4 +49,4 @@ You can contribute in many ways:
 6. **Open a Pull Request!**
 
 ## Code of Conduct & License
-Please be respectful to all contributors. See [LICENSE](LICENSE) for details
+Please be respectful to all contributors. See [LICENSE](LICENSE) for detail
