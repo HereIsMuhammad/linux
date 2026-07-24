@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" width="100"/>
-</p>00
+</p>
 
 # Linux
 
